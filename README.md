@@ -43,11 +43,6 @@ Matplotlib | Seaborn | TFX
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://flowcv.me/vishal17)
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishalsingh17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
