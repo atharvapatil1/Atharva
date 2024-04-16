@@ -1,19 +1,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Rishabh Kanojiya</h1>
-<h3 align="center">A Passionate self-taught Full Stack Developer based in India.</h3>
+         width="45" />, I'm Atharva Patil </h1>
+<h3 align="center">A Passionate self-taught Data Scientist based in India.</h3>
 
 <br>
 
 
 <p align="center">
 
-- 🎓 Currently pursuing a Master of Science in Computer Science at Binghamton University
-- 👨‍💻 Aspiring Software Developer actively seeking internship opportunities for 2024
-- 💼 Formerly with [FYND](https://www.linkedin.com/in/rishabhkanojiya/), experienced Full Stack Developer ready for new challenges
-- 🌱 Actively learning and expanding skills in Dev-ops and Data Engineering
-- 💬 Open to answering any questions or providing assistance; feel free to reach out [here](mailto:rishabhkanojiya75@gmail.com)!
+- 🎓 Currently pursuing a Master of Science in Computer Science at Binghamton University with AI Specialization
+- 👨‍💻 Aspiring Data Scientist actively seeking internship opportunities for 2024
+- 💼 Formerly with [Acuiti Labs](https://www.linkedin.com/in/atharva--patil/), experienced Data Scientist ready for new challenges
+- 🌱 Actively learning and expanding skills in MLOps and Generative AI
+- 💬 Open to answering any questions or providing assistance; feel free to reach out [here](mailto:atharvavpatil@gmail.com)!
 
 <h3 align="center">Languages & Tools:</h3>
 <br>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,postgres,mongodb,graphql,nodejs,express,docker,kubernetes,githubactions,aws,azure,github,linux" />
+    <img src="https://skillicons.dev/icons?i=python,react,postgres,mongodb,graphql,nodejs,express,docker,kubernetes,githubactions,aws,azure,github,linux" />
   </a>
 </p>
 
