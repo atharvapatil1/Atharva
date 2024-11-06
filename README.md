@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Atharva Patil </h1>
-<h3 align="center">A Passionate self-taught Data Scientist based in India.</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <br>
 
